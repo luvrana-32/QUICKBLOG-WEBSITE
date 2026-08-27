@@ -1,5 +1,5 @@
 
-import imagekit from 'imagekit'
+import ImageKit from 'imagekit'
 
 
 var imagekit = new ImageKit({
